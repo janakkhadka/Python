@@ -7,4 +7,9 @@ squares[:1]+squares[3:]
 
 squares[3]=36
 
-color= ["Red","Green","Blue","Yellow"]
+rgb= ["Red","Green","Blue","Yellow"]
+rgba = rgb
+rgba.append("Alpha")
+rgba
+
+len(rgba)
