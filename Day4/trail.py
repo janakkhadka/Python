@@ -1,4 +1,7 @@
-print('day 4')
+def abc():
+    print("hello")
+    
+abc()
 
 from enum import Enum
 class Color(Enum):
@@ -14,11 +17,3 @@ match color:
         print("Grass is green")
     case Color.BLUE:
         print("Sky is blue.")
-        
-        
-print("janak")
-
-def abc():
-    print('hello guys')
-    
-abc()
