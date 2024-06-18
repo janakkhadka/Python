@@ -10,3 +10,7 @@ def f(ham: str, eggs: str = 'eggs') -> str:
 
 
 f('spam')
+
+
+#4.9. Intermezzo: Coding Style
+
