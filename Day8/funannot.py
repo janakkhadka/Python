@@ -14,3 +14,4 @@ f('spam')
 
 #4.9. Intermezzo: Coding Style
 
+#functions finish
