@@ -17,4 +17,4 @@ print(fruits)
 fruits.sort()
 print(fruits)
 
-print(fruits.pop())
+fruits.pop()
