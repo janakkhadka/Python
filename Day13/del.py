@@ -8,3 +8,9 @@ print(a)
 
 del a[2:4]
 print(a)
+
+#5.3. Tuples and Sequences
+
+t = 12345, 54321, 'hello!'
+
+print(t[0])
